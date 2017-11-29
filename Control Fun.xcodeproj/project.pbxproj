@@ -54,14 +54,22 @@
 		D3DC50181FCEDAF900F8A51E /* Control Fun */ = {
 			isa = PBXGroup;
 			children = (
-				D3DC50191FCEDAF900F8A51E /* AppDelegate.swift */,
 				D3DC501B1FCEDAF900F8A51E /* ViewController.swift */,
 				D3DC501D1FCEDAF900F8A51E /* Main.storyboard */,
-				D3DC50201FCEDAF900F8A51E /* Assets.xcassets */,
-				D3DC50221FCEDAF900F8A51E /* LaunchScreen.storyboard */,
 				D3DC50251FCEDAF900F8A51E /* Info.plist */,
+				D3DC502B1FCEDC4F00F8A51E /* Supporting Files */,
 			);
 			path = "Control Fun";
+			sourceTree = "<group>";
+		};
+		D3DC502B1FCEDC4F00F8A51E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D3DC50191FCEDAF900F8A51E /* AppDelegate.swift */,
+				D3DC50201FCEDAF900F8A51E /* Assets.xcassets */,
+				D3DC50221FCEDAF900F8A51E /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
